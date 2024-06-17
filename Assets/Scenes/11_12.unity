@@ -365,6 +365,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _character: {fileID: 1267535338}
+  smoothTime: 0.08
 --- !u!81 &990654759
 AudioListener:
   m_ObjectHideFlags: 0
